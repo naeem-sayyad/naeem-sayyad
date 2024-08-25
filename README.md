@@ -1,4 +1,5 @@
-Data Science and Machine Learning Projects
+Data Science and Machine Learning Projects: 
+
 Welcome to my GitHub repository, you'll find a collection of projects that showcase my skills and progress in Data Science, Machine Learning, and related fields. 
 These projects reflect my journey from foundational concepts to more advanced techniques, integrating my knowledge in Python, data analytics, and machine learning.
 
