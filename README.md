@@ -1,7 +1,7 @@
 Data Science and Machine Learning Projects: 
 
 Welcome to my GitHub repository, you'll find a collection of projects that showcase my skills and progress in Data Science, Machine Learning, and related fields. 
-These projects reflect my journey from foundational concepts to more advanced techniques, integrating my knowledge in Python, data analytics, machine learning, and Generative Advarsarial Networks(GANs).
+These projects reflect my journey from foundational concepts to more advanced techniques, integrating my knowledge in Python, data analytics, machine learning, and Generative Adversarial Networks(GANs).
 
 About Me:
 I am currently pursuing my MTech in Data Science at the prestigious NMIMS University, Mumbai.
