@@ -10,7 +10,7 @@ I am particularly interested in topics like Generative Adversarial Networks, ML/
 
 
 
-Programming Languages: Python.
+Programming Languages: Python, JAVA, and R.
 Data Analytics: Pandas, NumPy, Matplotlib.
 Machine Learning: Scikit-learn, TensorFlow, Keras
 Database: MySQL (Basics), MongoDB
