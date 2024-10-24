@@ -9,9 +9,9 @@ I am aiming to make contributions in the field of MLAI and DS. My goal is to mas
 I am particularly interested in topics like Generative Adversarial Networks, ML/AI, and Applied Mathematics for Data Science.
 
 
-Skills and Tools: 
-Programming Languages: Python 
-Data Analytics: Pandas, NumPy, Matplotlib
+
+Programming Languages: Python.
+Data Analytics: Pandas, NumPy, Matplotlib.
 Machine Learning: Scikit-learn, TensorFlow, Keras
 Database: MySQL (Basics), MongoDB
 Other: AWS, SnowFlake, Apache Spark
