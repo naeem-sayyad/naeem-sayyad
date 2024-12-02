@@ -10,14 +10,11 @@ I am particularly interested in topics like Generative Adversarial Networks, ML/
 
 
 
-Programming Languages: Python, JAVA, and R.
-Data Analytics: Pandas, NumPy, Matplotlib.
-Machine Learning: Scikit-learn, TensorFlow, Keras
-Database: MySQL (Basics), MongoDB
-Other: AWS, SnowFlake, Apache Spark
-
-Contact:
-Feel free to reach out to me if you have any questions or would like to collaborate on projects!
+# Programming Languages: Python, JAVA, and R.
+# Data Analytics: Pandas, NumPy, Matplotlib.
+# Machine Learning: Scikit-learn, TensorFlow, Keras.
+# Database: MySQL (Basics), MongoDB.
+# Other: AWS, SnowFlake, Apache Spark
 
 Email: naeemsayyad34@gmail.com
 LinkedIn: https://www.linkedin.com/in/naeemsayyad/
