@@ -2,7 +2,7 @@ Data Science and Machine Learning Projects:
 
 # Welcome to my GitHub repository
 
-You'll find a collection of projects that showcase my skills and progress in Data Science, Machine Learning, and related fields. 
+You'll find a collection of repositories that showcase my skills and progress in Data Science, Machine Learning, and related fields. 
 These projects reflect my journey from foundational concepts to more advanced techniques, integrating my knowledge in Python, data analytics, machine learning, and Generative Adversarial Networks(GANs).
 
 About Me:
