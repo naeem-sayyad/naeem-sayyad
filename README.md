@@ -1,4 +1,4 @@
-# 🚀 Welcome to My Dope GitHub Repository
+# 🚀 Welcome to My GitHub Repository
 
 ![Animated Header](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F39C12&width=700&height=65&lines=Data+Science+%7C+Machine+Learning+%7C+Deep+Learning;Computer+Vision+%7C+Medical+AI+%7C+GenAI;Coding+%7C+AI+Research+%7C+Innovation)
 
