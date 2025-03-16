@@ -1,11 +1,11 @@
-# 🚀 Welcome to My GitHub Repository
+#  Welcome to My GitHub Repository
 
 ![Animated Header](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F39C12&width=700&height=65&lines=Data+Science+%7C+Machine+Learning+%7C+Deep+Learning;Computer+Vision+%7C+Medical+AI+%7C+GenAI;Coding+%7C+AI+Research+%7C+Innovation)
 
 ---
 
 ## 🎭 Who Am I?
-🚀 MTech Data Science @ NMIMS, Mumbai | AI Enthusiast | Innovator | Tech Visionary
+ MTech Data Science @ NMIMS, Mumbai | AI Enthusiast | Innovator | Tech Visionary
 
 I am passionate about **Machine Learning, Deep Learning, and AI-driven breakthroughs** in medical sciences and finance. I specialize in:
 - **Generative Adversarial Networks (GANs)** 🌀
@@ -29,7 +29,7 @@ I am passionate about **Machine Learning, Deep Learning, and AI-driven breakthro
 
 ---
 
-## 🔥 GitHub Stats & Badges
+##  GitHub Stats & Badges
 ![🔥 GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naeem-sayyad&theme=tokyonight&hide_border=true)
 
 ![🏆 GitHub Trophies](https://github-profile-trophy.vercel.app/?username=naeem-sayyad&theme=dracula&no-frame=true&margin-w=5)
@@ -38,7 +38,7 @@ I am passionate about **Machine Learning, Deep Learning, and AI-driven breakthro
 
 ---
 
-## 🚀 Latest Projects & Contributions
+##  Latest Projects & Contributions
 🌟 [AI-Powered X-Ray Anomaly Detection](https://github.com/naeem-sayyad/X-Ray-Detection) - **Medical AI, YOLOv8, Grad-CAM** 🏥
 
 🌟 [Genomic AI for Drug Discovery](https://github.com/naeem-sayyad/Genomics-ML) - **Multi-modal AI, Transformer-based models** 🧬
