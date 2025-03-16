@@ -30,7 +30,6 @@ I am passionate about **Machine Learning, Deep Learning, and AI-driven breakthro
 ---
 
 ##  GitHub Stats & Badges
-![🔥 GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naeem-sayyad&theme=tokyonight&hide_border=true)
 
 ![🏆 GitHub Trophies](https://github-profile-trophy.vercel.app/?username=naeem-sayyad&theme=dracula&no-frame=true&margin-w=5)
 
