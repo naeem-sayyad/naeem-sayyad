@@ -1,19 +1,54 @@
-# Welcome to my GitHub Repository
+# 🚀 Welcome to My Dope GitHub Repository
 
-![Animated Header](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=007BFF&width=600&height=60&lines=Data+Science;Machine+Learning;Deep+Learning;Computer+Vision;Medical+AI+Research;Generative+AI)
+![Animated Header](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F39C12&width=700&height=65&lines=Data+Science+%7C+Machine+Learning+%7C+Deep+Learning;Computer+Vision+%7C+Medical+AI+%7C+GenAI;Coding+%7C+AI+Research+%7C+Innovation)
 
-## About Me
-I am currently pursuing my MTech in Data Science at the renowned NMIMS Deemed to be University, Mumbai.
-I aim to contribute to the field of ML, AI, and Data Science. My goal is to master data science concepts and utilize ML and Deep Learning in impactful sectors such as medical sciences and finance.
-My primary interests include Generative Adversarial Networks, Computer Vision (Object Detection, Image Classification, Segmentation), and Deep Learning for Medical Science.
+---
 
-## Skills & Technologies
-- **Programming Languages:** Python, Java, R
-- **Data Analytics:** Pandas, NumPy, Matplotlib, Seaborn, Polars
-- **Machine Learning:** Scikit-learn, TensorFlow, Keras
-- **Database:** MySQL, MongoDB
-- **Other:** AWS, SnowFlake, Apache Spark
+## 🎭 Who Am I?
+🚀 MTech Data Science @ NMIMS, Mumbai | AI Enthusiast | Innovator | Tech Visionary
 
-## Contact
-- **Email:** [naeemsayyad34@gmail.com](mailto:naeemsayyad34@gmail.com)
-- **LinkedIn:** [linkedin.com/in/naeemsayyad](https://www.linkedin.com/in/naeemsayyad/)
+I am passionate about **Machine Learning, Deep Learning, and AI-driven breakthroughs** in medical sciences and finance. I specialize in:
+- **Generative Adversarial Networks (GANs)** 🌀
+- **Computer Vision (Detection, Classification, Segmentation)** 🖼️
+- **Deep Learning for Medical AI & FinTech** 💰🩺
+
+---
+
+## 💻 Tech Stack & Tools
+🛠️ **Languages:** Python 🐍 | Java ☕ | R 📊
+
+📊 **Data Analytics:** Pandas | NumPy | Matplotlib | Seaborn | Polars
+
+🤖 **Machine Learning & AI:** Scikit-learn | TensorFlow | Keras | PyTorch
+
+🗄️ **Databases:** MySQL | MongoDB | Firebase
+
+☁️ **Cloud & Big Data:** AWS | Snowflake | Apache Spark
+
+🚀 **DevOps & Tools:** Docker | GitHub Actions | FastAPI | Streamlit
+
+---
+
+## 🔥 GitHub Stats & Badges
+![🔥 GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naeem-sayyad&theme=tokyonight&hide_border=true)
+
+![🏆 GitHub Trophies](https://github-profile-trophy.vercel.app/?username=naeem-sayyad&theme=dracula&no-frame=true&margin-w=5)
+
+![📊 Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naeem-sayyad&layout=compact&theme=radical&hide_border=true)
+
+---
+
+## 🚀 Latest Projects & Contributions
+🌟 [AI-Powered X-Ray Anomaly Detection](https://github.com/naeem-sayyad/X-Ray-Detection) - **Medical AI, YOLOv8, Grad-CAM** 🏥
+
+🌟 [Genomic AI for Drug Discovery](https://github.com/naeem-sayyad/Genomics-ML) - **Multi-modal AI, Transformer-based models** 🧬
+
+🌟 [Real-Time Finance AI Chatbot](https://github.com/naeem-sayyad/Finance-RAG) - **LLMs, RAG, Twitter sentiment** 💰
+
+---
+
+## 🌍 Let's Connect & Collaborate
+📧 **Email:** [naeemsayyad34@gmail.com](mailto:naeemsayyad34@gmail.com)  
+👨‍💻 **LinkedIn:** [linkedin.com/in/naeemsayyad](https://www.linkedin.com/in/naeemsayyad/)  
+
+🔥 **🚀 Always Innovating. Always Learning. Let's Build the Future!** 🔥
