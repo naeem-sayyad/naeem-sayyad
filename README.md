@@ -4,7 +4,7 @@
 
 ---
 
-## 🎭 Who Am I?
+## About Me
  MTech Data Science @ NMIMS, Mumbai | AI Enthusiast | Innovator | Tech Visionary
 
 I am passionate about **Machine Learning, Deep Learning, and AI-driven breakthroughs** in medical sciences and finance. I specialize in:
