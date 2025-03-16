@@ -1,42 +1,19 @@
-<div style="text-align: center;">
-  <h1 style="animation: fadeIn 2s ease-in-out infinite alternate;">Data Science and Machine Learning Projects</h1>
-</div>
-
 # Welcome to my GitHub Repository
 
-Here, you'll find a collection of repositories showcasing my skills and progress in **Data Science**, **Machine Learning**, and related fields. These projects reflect my journey from foundational concepts to advanced techniques, integrating my expertise in Python, data analytics, machine learning, and Generative Adversarial Networks (GANs).
+![Animated Header](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=007BFF&width=600&height=60&lines=Data+Science;Machine+Learning;Deep+Learning;Computer+Vision;Medical+AI+Research;Generative+AI)
 
 ## About Me
-I am currently pursuing my **MTech in Data Science** at **NMIMS Deemed to be University, Mumbai**. My aim is to contribute meaningfully to the fields of Machine Learning, Artificial Intelligence (MLAI), and Data Science (DS). My goal is to master data science concepts and apply ML and Deep Learning to impactful sectors like **medical sciences** and **finance**.
+I am currently pursuing my MTech in Data Science at the renowned NMIMS Deemed to be University, Mumbai.
+I aim to contribute to the field of ML, AI, and Data Science. My goal is to master data science concepts and utilize ML and Deep Learning in impactful sectors such as medical sciences and finance.
+My primary interests include Generative Adversarial Networks, Computer Vision (Object Detection, Image Classification, Segmentation), and Deep Learning for Medical Science.
 
-I am particularly passionate about:
-- **Generative Adversarial Networks (GANs)**
-- **Computer Vision** (Object Detection, Image Classification, Segmentation)
-- **Deep Learning for Medical Science**
+## Skills & Technologies
+- **Programming Languages:** Python, Java, R
+- **Data Analytics:** Pandas, NumPy, Matplotlib, Seaborn, Polars
+- **Machine Learning:** Scikit-learn, TensorFlow, Keras
+- **Database:** MySQL, MongoDB
+- **Other:** AWS, SnowFlake, Apache Spark
 
-### Skills
-- **Programming Languages**: Python, Java, R
-- **Data Analytics**: Pandas, NumPy, Matplotlib, Seaborn, Polars
-- **Machine Learning**: Scikit-learn, TensorFlow, Keras
-- **Databases**: MySQL, MongoDB
-- **Other**: AWS, Snowflake, Apache Spark
-
-### Contact Me
-- **Email**: [naeemsayyad34@gmail.com](mailto:naeemsayyad34@gmail.com)  
-- **LinkedIn**: [linkedin.com/in/naeemsayyad/](https://www.linkedin.com/in/naeemsayyad/)
-
-<style>
-@keyframes fadeIn {
-  0% { opacity: 0.3; transform: scale(0.95); }
-  100% { opacity: 1; transform: scale(1); }
-}
-h1 {
-  color: #0366d6;
-  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
-  transition: all 0.5s ease-in-out;
-}
-h1:hover {
-  color: #ff4081;
-  transform: scale(1.05);
-}
-</style>
+## Contact
+- **Email:** [naeemsayyad34@gmail.com](mailto:naeemsayyad34@gmail.com)
+- **LinkedIn:** [linkedin.com/in/naeemsayyad](https://www.linkedin.com/in/naeemsayyad/)
