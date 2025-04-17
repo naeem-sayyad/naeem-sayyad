@@ -9,12 +9,12 @@
 
 I am passionate about **Machine Learning, Deep Learning, and AI-driven breakthroughs** in medical sciences and finance. I specialize in:
 - **Generative Adversarial Networks (GANs)** 
-- **Computer Vision (Detection, Classification, Segmentation)** 🖼
+- **Computer Vision (Detection, Classification, Segmentation)** 
 - **Deep Learning for Medical AI & FinTech** 
 
 ---
 
-## 💻 Tech Stack & Tools
+## Tech Stack & Tools
  **Languages:** Python  | Java  | R 
 
  **Data Analytics:** Pandas | NumPy | Matplotlib | Seaborn | Polars
@@ -31,9 +31,9 @@ I am passionate about **Machine Learning, Deep Learning, and AI-driven breakthro
 
 ##  GitHub Stats & Badges
 
-![🏆 GitHub Trophies](https://github-profile-trophy.vercel.app/?username=naeem-sayyad&theme=dracula&no-frame=true&margin-w=5)
+![ GitHub Trophies](https://github-profile-trophy.vercel.app/?username=naeem-sayyad&theme=dracula&no-frame=true&margin-w=5)
 
-![📊 Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naeem-sayyad&layout=compact&theme=radical&hide_border=true)
+![ Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naeem-sayyad&layout=compact&theme=radical&hide_border=true)
 
 ---
 
@@ -46,8 +46,8 @@ I am passionate about **Machine Learning, Deep Learning, and AI-driven breakthro
 
 ---
 
-## 🌍 Let's Connect & Collaborate
+## Let's Connect & Collaborate
  **Email:** [naeemsayyad34@gmail.com](mailto:naeemsayyad34@gmail.com)  
  **LinkedIn:** [linkedin.com/in/naeemsayyad](https://www.linkedin.com/in/naeemsayyad/)  
 
- ** Always Innovating. Always Learning. Let's Build the Future!** 
+ ** Always Innovating. Always Learning.** 
