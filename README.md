@@ -8,24 +8,24 @@
  MTech Data Science @ NMIMS, Mumbai | AI Enthusiast | Innovator | Tech Visionary
 
 I am passionate about **Machine Learning, Deep Learning, and AI-driven breakthroughs** in medical sciences and finance. I specialize in:
-- **Generative Adversarial Networks (GANs)** 🌀
-- **Computer Vision (Detection, Classification, Segmentation)** 🖼️
-- **Deep Learning for Medical AI & FinTech** 💰🩺
+- **Generative Adversarial Networks (GANs)** 
+- **Computer Vision (Detection, Classification, Segmentation)** 🖼
+- **Deep Learning for Medical AI & FinTech** 
 
 ---
 
 ## 💻 Tech Stack & Tools
-🛠️ **Languages:** Python 🐍 | Java ☕ | R 📊
+ **Languages:** Python  | Java  | R 
 
-📊 **Data Analytics:** Pandas | NumPy | Matplotlib | Seaborn | Polars
+ **Data Analytics:** Pandas | NumPy | Matplotlib | Seaborn | Polars
 
-🤖 **Machine Learning & AI:** Scikit-learn | TensorFlow | Keras | PyTorch
+ **Machine Learning & AI:** Scikit-learn | TensorFlow | Keras | PyTorch
 
-🗄️ **Databases:** MySQL | MongoDB | Firebase
+ **Databases:** MySQL | MongoDB | Firebase
 
-☁️ **Cloud & Big Data:** AWS | Snowflake | Apache Spark
+☁**Cloud & Big Data:** AWS | Snowflake | Apache Spark
 
-🚀 **DevOps & Tools:** Docker | GitHub Actions | FastAPI | Streamlit
+ **DevOps & Tools:** Docker | GitHub Actions | FastAPI | Streamlit
 
 ---
 
@@ -38,16 +38,16 @@ I am passionate about **Machine Learning, Deep Learning, and AI-driven breakthro
 ---
 
 ##  Latest Projects & Contributions
-🌟 [AI-Powered X-Ray Anomaly Detection](https://github.com/naeem-sayyad/X-Ray-Detection) - **Medical AI, YOLOv8, Grad-CAM** 🏥
+🌟 [AI-Powered X-Ray Anomaly Detection](https://github.com/naeem-sayyad/X-Ray-Detection) - **Medical AI, YOLOv8, Grad-CAM** 
 
-🌟 [Genomic AI for Drug Discovery](https://github.com/naeem-sayyad/Genomics-ML) - **Multi-modal AI, Transformer-based models** 🧬
+🌟 [Genomic AI for Drug Discovery](https://github.com/naeem-sayyad/Genomics-ML) - **Multi-modal AI, Transformer-based models** 
 
-🌟 [Real-Time Finance AI Chatbot](https://github.com/naeem-sayyad/Finance-RAG) - **LLMs, RAG, Twitter sentiment** 💰
+🌟 [Real-Time Finance AI Chatbot](https://github.com/naeem-sayyad/Finance-RAG) - **LLMs, RAG, Twitter sentiment** 
 
 ---
 
 ## 🌍 Let's Connect & Collaborate
-📧 **Email:** [naeemsayyad34@gmail.com](mailto:naeemsayyad34@gmail.com)  
-👨‍💻 **LinkedIn:** [linkedin.com/in/naeemsayyad](https://www.linkedin.com/in/naeemsayyad/)  
+ **Email:** [naeemsayyad34@gmail.com](mailto:naeemsayyad34@gmail.com)  
+ **LinkedIn:** [linkedin.com/in/naeemsayyad](https://www.linkedin.com/in/naeemsayyad/)  
 
-🔥 **🚀 Always Innovating. Always Learning. Let's Build the Future!** 🔥
+ ** Always Innovating. Always Learning. Let's Build the Future!** 
