@@ -23,7 +23,7 @@ I am passionate about **Machine Learning, Deep Learning, and AI-driven breakthro
 
  **Databases:** MySQL | MongoDB | Firebase
 
-☁**Cloud & Big Data:** AWS | Snowflake | Apache Spark
+ **Cloud & Big Data:** AWS | Snowflake | Apache Spark
 
  **DevOps & Tools:** Docker | GitHub Actions | FastAPI | Streamlit
 
@@ -42,7 +42,6 @@ I am passionate about **Machine Learning, Deep Learning, and AI-driven breakthro
 
 🌟 [Genomic AI for Drug Discovery](https://github.com/naeem-sayyad/Genomics-ML) - **Multi-modal AI, Transformer-based models** 
 
-🌟 [Real-Time Finance AI Chatbot](https://github.com/naeem-sayyad/Finance-RAG) - **LLMs, RAG, Twitter sentiment** 
 
 ---
 
