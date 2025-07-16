@@ -37,14 +37,6 @@ I am passionate about **Machine Learning, Deep Learning, and AI-driven breakthro
 
 ---
 
-##  Latest Projects & Contributions
-🌟 [AI-Powered X-Ray Anomaly Detection](https://github.com/naeem-sayyad/X-Ray-Detection) - **Medical AI, YOLOv8, Grad-CAM** 
-
-🌟 [Genomic AI for Drug Discovery](https://github.com/naeem-sayyad/Genomics-ML) - **Multi-modal AI, Transformer-based models** 
-
-
----
-
 ## Let's Connect & Collaborate
  **Email:** [naeemsayyad34@gmail.com](mailto:naeemsayyad34@gmail.com)  
  **LinkedIn:** [linkedin.com/in/naeemsayyad](https://www.linkedin.com/in/naeemsayyad/)  
